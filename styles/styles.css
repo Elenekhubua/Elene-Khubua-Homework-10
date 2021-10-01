@@ -179,7 +179,7 @@
     width: 100%;
     height: 430px;
     /* margin: 0 auto; */
-    background-color: burlywood;
+    /* background-color: burlywood; */
     display: flex;
     flex-direction: column;
 }
@@ -196,7 +196,7 @@
     max-width: 376px;
     height: 115px;
     margin-top: 10px;
-    margin-bottom: 34px;
+    margin-bottom: 30px;
 }
 .big-div{
     max-width: 1088px;
@@ -204,8 +204,8 @@
     height: 260px;
     display: flex;
     justify-content: space-between;
-    background-color:darkcyan;
-    margin-top:24px
+    /* background-color:darkcyan; */
+    /* margin-top:10px; */
 }
 .small-div{
     max-width: 260px;
@@ -215,7 +215,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: darkgoldenrod;
+    background-color:var(--titlecolor);
 }
 .round-div{
     max-width: 59px;
