@@ -106,6 +106,12 @@
     .section2-wraper{
         height: auto;
     }
+    .section2-a{
+        text-align: center;
+    }
+    .section2-heading{
+        text-align: center;
+    }
     .big-div{
         height: auto;
         display: flex;
